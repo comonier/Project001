@@ -1,0 +1,7 @@
+main: org.hu3.p001.Main
+version: 001
+name: p001
+api-version: 1.18
+authors: [ comonier ]
+description: Project001
+website: hu3.org
